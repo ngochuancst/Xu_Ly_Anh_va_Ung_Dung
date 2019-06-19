@@ -27,7 +27,7 @@
    
     $ redis-cli ping
       PONG
-[cây thư mục](assets/image1.png)
+![cây thư mục](assets/image1.png)
 ### Cấu hình virtualenv để chạy ứng dụng
 
 Các bạn sử dụng các thư viện sau trong suốt quá trình thực hiện Project này. Tạo một [**virtualenv**](https://virtualenv.pypa.io/en/stable/) để cài đặt các package cần thiết sau:
