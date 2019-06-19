@@ -6,7 +6,7 @@
  * **Flask** là một framework rất đơn giản để dùng để viết Web Service bằng ngôn ngữ Python.
  * **Redis** sử dụng để caching mô hình Deep Learning trên môi trường production.
  
-![Object Detection Sample](assets/image4.png)
+![Object Detection Sample](assets/imge4.png)
 
 ## Cài Đặt Môi Trường.
 **NOTE: mỗi khi khởi tạo server và test thì ta mở một terminal mới.**
@@ -47,7 +47,7 @@ Trong ứng dụng demo về nhận diện ảnh nhưng chúng ta không cần s
 Sau khi cài đặt **Flask** ta tổ chức các file code theo cấu trúc sau:
 
 
-![cây thư mục](assets/image5.png)
+![cây thư mục](assets/imgs5.png)
 
 * Trong đó:
 
@@ -92,7 +92,7 @@ curl -X POST -F image=@images/person.jpg 'http://127.0.0.1:5000/predict
 {"label":"fur_coat","probability":0.02768091857433319},
 {"label":"Loafer","probability":0.013171998783946037}],"success":true} 
 
-![anh output](assets/image4.png)
+![anh output](assets/imge4.png)
 
 
 
