@@ -47,7 +47,7 @@ Trong ứng dụng demo về nhận diện ảnh nhưng chúng ta không cần s
 Sau khi cài đặt **Flask** ta tổ chức các file code theo cấu trúc sau:
 
 
-![cây thư mục](assets/imgs5.png)
+![cây thư mục](assets/imsge5.png)
 
 * Trong đó:
 
