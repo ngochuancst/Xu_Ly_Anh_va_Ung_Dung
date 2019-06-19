@@ -86,6 +86,7 @@ Lúc này Redis đã sẵn sàng lắng nghe các dữ liệu base64 được g�
 **run**
 curl -X POST -F image=@images/person.jpg 'http://127.0.0.1:5000/predict
 **OUPUT**
+
 {"predictions":[{"label":"suit","probability":0.7217508554458618},
 {"label":"jean","probability":0.13320423662662506},
 {"label":"trench_coat","probability":0.02929478883743286},
@@ -93,6 +94,10 @@ curl -X POST -F image=@images/person.jpg 'http://127.0.0.1:5000/predict
 {"label":"Loafer","probability":0.013171998783946037}],"success":true} 
 
 ![anh output](assets/imge4.png)
+
+* contact me: ngochuanktkt@gmail.com
+Good Luck !
+#THE END. 
 
 
 
