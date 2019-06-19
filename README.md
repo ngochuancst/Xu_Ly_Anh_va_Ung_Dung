@@ -108,7 +108,7 @@ curl -X POST -F image=@images/person.jpg 'http://127.0.0.1:5000/predict
 	3. Band_Aid: 0.0526
 	4. bow_tie: 0.0388
 	5. sunscreen: 0.0218
-	
+![run simple_request](assets/image7.png)
 * contact me: ngochuanktkt@gmail.com
 Good Luck !
 #THE END. 
