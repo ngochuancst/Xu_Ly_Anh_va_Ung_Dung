@@ -1,0 +1,8 @@
+scipy
+h5py
+tensorflow
+keras
+gevent
+imutils
+redis
+Pillow
