@@ -79,7 +79,11 @@ Lúc này Redis đã sẵn sàng lắng nghe các dữ liệu base64 được g�
 	...
 	 * Running on http://127.0.0.1:5000
 ![run test](assets/image3.png)
-![locohost](assets/image6.png)
+* Kiểm tra xem, chúng ta đã khởi tạo môi trường thành công chưa ?
+
+![locohost](assets/image6.png) 
+
+* Như Hình trên thì đã thành công .
 	 
 ## Testing
 
