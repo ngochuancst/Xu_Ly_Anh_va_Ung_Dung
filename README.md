@@ -100,6 +100,15 @@ curl -X POST -F image=@images/person.jpg 'http://127.0.0.1:5000/predict
 
 ![anh output](assets/imge4.png)
 
+# Bạn có thể run Scrip sau để đưa ra đối tượng 
+
+	`python simple_request.py` 
+	1. suit: 0.2402
+	2. jersey: 0.0982
+	3. Band_Aid: 0.0526
+	4. bow_tie: 0.0388
+	5. sunscreen: 0.0218
+	
 * contact me: ngochuanktkt@gmail.com
 Good Luck !
 #THE END. 
