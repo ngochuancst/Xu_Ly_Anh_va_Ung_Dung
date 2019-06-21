@@ -88,8 +88,11 @@ Lúc này Redis đã sẵn sàng lắng nghe các dữ liệu base64 được g�
 ## Testing
 
 * Sử dụng cURL test Keras REST API
+
 **run**
+
 curl -X POST -F image=@images/person.jpg 'http://127.0.0.1:5000/predict
+
 **OUPUT**
 
 {"predictions":[{"label":"suit","probability":0.7217508554458618},
